@@ -86,17 +86,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -187,7 +177,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* start footer styles */
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +188,4 @@ p {
 .footer h4 {
     font-size: 20px;
 }
+/* end footer styles */
